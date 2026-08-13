@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "launcher": {
-    "version": "1.6.4",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/vl.1.6.4/NarutoRealmsLauncher-v1.6.4.exe",
-    "sha256": "2F9255D3F272170D827242E3C805A2200BC1487907111A4F4AE12761944165D1",
+    "version": "1.6.5",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/vl.1.6.5/NarutoRealmsLauncher-v1.6.5.exe",
+    "sha256": "ecd75e3c478fab2747da2d5aa00f5a2494f26e6ad57e6e26644458f1033a617a",
     "required": true,
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
