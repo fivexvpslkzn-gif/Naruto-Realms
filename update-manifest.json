@@ -8,9 +8,9 @@
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
 "pack": {
-  "version": "7.46.25",
+  "version": "7.46.26",
   "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/pack-7.46.25/NarutoRealmsPack-7.46.26.zip",
-  "sha256": "73db6c894ab7222c69e27dd0e40fcc785fb9208f4a254ddb717fb8273b2a307b"
+  "sha256": "93392535e8cbe6df4a4846b9f24c733c96c49e31de1a98c7b1087611493676ab"
 },
   "server_address": "2.25.128.118",
   "site_url": "",
