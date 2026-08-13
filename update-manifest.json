@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "launcher": {
-    "version": "1.6.1",
+    "version": "1.6.2",
     "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/vl.1.6.2/NarutoRealmsLauncher-v1.6.2.exe",
     "sha256": "458D07F962F2A96EE4A804590970B50CC4AA30A04DFF6EF85FE89C4D611884AA",
     "required": true,
