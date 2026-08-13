@@ -16,4 +16,11 @@
   "site_url": "",
   "discord_url": "https://discord.gg/5GcgEnH67K",
   "news": "Pack obrigatório 7.46.24: ShinobiWorld, PlayerRevive, CustomNPCs e Simple Voice Chat."
+},
+"launcher-apk": {
+  "version": "1.2.0",
+  "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/mobile-1.2.0/NarutoRealmsMobile-v1.2.0.apk",
+  "sha256": "EA33D28966B4553B3BE3D855A54C5F27196D5E8176C3ACE5D10FE82F977569D5",
+  "required": true,
+  "notes": "Correção do diretório do Pojav e atualização automática do aplicativo."
 }
