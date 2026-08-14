@@ -13,11 +13,24 @@
     "sha256": "418eaf2675165fe4d8dc023ed8c5f476e928a5aa13757d3e5ef89041c2e70f29"
   },
   "launcher-apk": {
-    "version": "1.2.1",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/mobile-1.2.1/NarutoRealmsMobile-v1.2.1.apk",
-    "sha256": "418eaf2675165fe4d8dc023ed8c5f476e928a5aa13757d3e5ef89041c2e70f29",
+    "version": "2.0.0",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/vl-2.0/NarutoRealmsMobile-v2.0.0.apk",
+    "sha256": "C9AD4F2E8F79C03EA3149471DE7D078BD69591E75F71C00FE13CEC42E94364AD",
     "required": true,
-    "notes": "Correção da detecção do PojavLauncher instalado."
+    "notes": "Launcher mobile completo com Minecraft Java, NeoForge e pack automático."
+  },
+    "mobile": {
+    "enabled": true,
+    "minecraft_version": "1.21.1",
+    "loader": "neoforge",
+    "loader_version": "21.1.243",
+    "java_version": 21,
+    "profile_name": "Naruto Realms",
+    "instance_id": "naruto_realms",
+    "java_args": "-Xms512M -Xmx2048M",
+    "auto_launch": true,
+    "installer_url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.243/neoforge-21.1.243-installer.jar",
+    "installer_sha256": "29493A719A69C9593040DDBB589488B1231583824018E383F6DCD39B79411980"
   },
   "server_address": "2.25.128.118",
   "site_url": "",
