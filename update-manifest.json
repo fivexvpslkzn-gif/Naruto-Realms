@@ -7,20 +7,19 @@
     "required": true,
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
-"pack": {
-  "version": "7.46.34",
-  "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/pack-7.46.34/mods.zip",
-  "sha256": "748abab47590917c21a24b7d34eb7f3aa60ff9cc0de39a08c21e550762b68c7c"
-},
+  "pack": {
+    "version": "7.46.34",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/pack-7.46.34/mods.zip",
+    "sha256": "748abab47590917c21a24b7d34eb7f3aa60ff9cc0de39a08c21e550762b68c7c"
+  },
+  "launcher-apk": {
+    "version": "1.2.1",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/mobile-1.2.1/NarutoRealmsMobile-v1.2.1.apk",
+    "sha256": "AB497DCB8C614984FE6B2F2AAC81345D30705B8B92CE6A98215AB5E7D7A0713B",
+    "required": true,
+    "notes": "Correção da detecção do PojavLauncher instalado."
+  },
   "server_address": "2.25.128.118",
   "site_url": "",
   "discord_url": "https://discord.gg/5GcgEnH67K",
-  "news": "Pack obrigatório 7.46.24: ShinobiWorld, PlayerRevive, CustomNPCs e Simple Voice Chat."
-},
-"launcher-apk": {
-  "version": "1.2.1",
-  "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/mobile-1.2.1/NarutoRealmsMobile-v1.2.1.apk",
-  "sha256": "AB497DCB8C614984FE6B2F2AAC81345D30705B8B92CE6A98215AB5E7D7A0713B",
-  "required": true,
-  "notes": "Correção da detecção do PojavLauncher instalado."
-}
+  "news": "Pack obrigatório 7.46.34: Shinobi
