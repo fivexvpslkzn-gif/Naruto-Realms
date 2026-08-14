@@ -9,13 +9,13 @@
   },
   "pack": {
     "version": "7.46.34",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/pack-7.46.34/mods.zip",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/v.46.41/zcustomnpc.zip",
     "sha256": "748abab47590917c21a24b7d34eb7f3aa60ff9cc0de39a08c21e550762b68c7c"
   },
   "launcher-apk": {
     "version": "1.2.1",
     "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/mobile-1.2.1/NarutoRealmsMobile-v1.2.1.apk",
-    "sha256": "AB497DCB8C614984FE6B2F2AAC81345D30705B8B92CE6A98215AB5E7D7A0713B",
+    "sha256": "eba575848718d056dae7f744c5c92109ba28208f5d5bbcc3b27a2971ca9015f8",
     "required": true,
     "notes": "Correção da detecção do PojavLauncher instalado."
   },
