@@ -10,12 +10,12 @@
   "pack": {
     "version": "7.46.57",
     "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/7.50.2/voicechat-neoforge-1.21.1-2.6.22.2.zip",
-    "sha256": "173c9d5ee5503b3e09242aa3b4a3c158765663e57d3497b689fcde3c301b3ecc"
+    "sha256": "35b55041260a78b4a7cb453ec4ea206feda91a55b101c7d2776dfbd565ceb64d"
   },
   "launcher-apk": {
     "version": "2.0.5",
     "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/etest/NarutoRealmsMobile-v2.0.5-login-local-neoforge-fix.apk",
-    "sha256": "35b55041260a78b4a7cb453ec4ea206feda91a55b101c7d2776dfbd565ceb64d",
+    "sha256": "81ac07a24cf47e55e7ca18c17a0940055f4f4b91b3d4c96cfae8ad2973525d4a",
     "required": true,
     "notes": "Launcher mobile completo com Minecraft Java, NeoForge e pack automático."
   },
