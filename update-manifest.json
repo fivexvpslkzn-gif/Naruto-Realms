@@ -8,14 +8,14 @@
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
   "pack": {
-    "version": "7.46.58",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/novaversion/att-210826.zip",
+    "version": "7.46.59",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/bugarrumado/voicechat-neoforge-1.21.1-2.6.22.2.zip",
     "sha256": "811a47920285021b0b7f4bacb1a51bc280ea3d1adb4bdcf2def54cc21796f884"
   },
   "launcher-apk": {
     "version": "2.0.5",
     "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/etest/NarutoRealmsMobile-v2.0.5-login-local-neoforge-fix.apk",
-    "sha256": "81ac07a24cf47e55e7ca18c17a0940055f4f4b91b3d4c96cfae8ad2973525d4a",
+    "sha256": "d1921b21507763233b7ee208821700f8ab90e1726138c2bbc83dd2bc2222589f",
     "required": true,
     "notes": "Launcher mobile completo com Minecraft Java, NeoForge e pack automático."
   },
