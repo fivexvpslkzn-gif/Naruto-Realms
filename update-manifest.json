@@ -8,9 +8,9 @@
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
   "pack": {
-    "version": "7.46.64",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/v1.7.0/voicechat-neoforge-1.21.1-2.6.22.2.zip",
-    "sha256": "1b128a92b6fc4ae04b131c6e25e95c372236eb642bb83b3433657bf5d4143bf5"
+    "version": "7.46.65",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/dasdas/voicechat-neoforge-1.21.1-2.6.22.2.zip",
+    "sha256": "df27cfc12789a31cd34c6917580ec982182d3f2a6448906423d5f4c0c4d220be"
   },
   "launcher-apk": {
     "version": "2.0.5",
