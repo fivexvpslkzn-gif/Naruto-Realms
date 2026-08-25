@@ -9,13 +9,13 @@
   },
   "pack": {
     "version": "7.47.00",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/dsadsad/mods.rar",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/dsadsad/voicechat-neoforge-1.21.1-2.6.22.2.zip",
     "sha256": "9158f2faef686ca10b166c69f745dc398673fe8ff91138247bb84980eb362f52"
   },
   "launcher-apk": {
     "version": "2.0.5",
     "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/sad/shinobiworld-client-7.46.107.zip",
-    "sha256": "81ac07a24cf47e55e7ca18c17a0940055f4f4b91b3d4c96cfae8ad2973525d4a",
+    "sha256": "f646a13555cacf3d7a32769324cf044f8bdf1a4355b3001ebdcfc9fd377d59be",
     "required": true,
     "notes": "Launcher mobile completo com Minecraft Java, NeoForge e pack automático."
   },
