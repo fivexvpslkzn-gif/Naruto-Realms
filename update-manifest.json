@@ -14,7 +14,7 @@
   },
   "launcher-apk": {
     "version": "2.0.5",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/sad/shinobiworld-client-7.46.107.zip",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/vl-2.0/NarutoRealmsMobile-v2.0.0.apk",
     "sha256": "944ca1e79d8cc61a5f6c94e3c87355d4c365663d43d2386f461a5f9049e7a7b6",
     "required": true,
     "notes": "Launcher mobile completo com Minecraft Java, NeoForge e pack automático."
