@@ -13,7 +13,7 @@
     "sha256": "3a21eb68e685101cc7261347d29255138a801c9c9c200c4dea76ae746f7f8375"
   },
   "launcher-apk": {
-    "version": "2.0.5",
+    "version": "2.0.0",
     "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/vl-2.0/NarutoRealmsMobile-v2.0.0.apk",
     "sha256": "092ab646bc98bf1a20ab682ddce3865f2d03e9c534a237b95214b3cbee9e1116",
     "required": true,
