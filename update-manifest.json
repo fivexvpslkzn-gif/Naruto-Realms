@@ -8,9 +8,9 @@
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
   "pack": {
-    "version": "7.47.188",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/dsadacc/mods.zip",
-    "sha256": "81340e4524f93beb4a3e8a1e4f69fe4775c8b1ecd652f774a0e0dd6d4d29e477"
+    "version": "7.47.190",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.190/mods.zip",
+    "sha256": "8a42da7f8c06b9a7db3c8ecf734fe833cbbe7d97f39fcc0057e7931821ead0cd"
   },
   "launcher-apk": {
     "version": "2.0.3",
@@ -19,7 +19,7 @@
     "required": true,
     "notes": "Launcher mobile completo com Minecraft Java, NeoForge e pack automático."
   },
-    "mobile": {
+  "mobile": {
     "enabled": true,
     "minecraft_version": "1.21.1",
     "loader": "neoforge",
@@ -32,8 +32,8 @@
     "installer_url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.243/neoforge-21.1.243-installer.jar",
     "installer_sha256": "29493A719A69C9593040DDBB589488B1231583824018E383F6DCD39B79411980"
   },
-  "server_address": "2.25.128.118",
+  "server_address": "jensen-checkboxes.tun.ply.gg",
   "site_url": "",
   "discord_url": "https://discord.gg/5GcgEnH67K",
-  "news": "Pack obrigatório 7.46.34: ShinobiWorld, PlayerRevive, CustomNPCs e Simple Voice Chat."
+  "news": "Naruto Realms 7.47.190: menu e carregamento renovados, com visual mais limpo e modo leve. Selo com asas, livro 3D, Susanoos e HUDs atualizados. Servidor: jensen-checkboxes.tun.ply.gg."
 }
