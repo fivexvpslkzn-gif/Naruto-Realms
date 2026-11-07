@@ -8,9 +8,9 @@
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
   "pack": {
-    "version": "7.47.194",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/ncrrea/mods.zip",
-    "sha256": "f04edf8e03b8c0386f081649daf5bf14bfd4fb89744a19ea69aff2856aff02f7"
+    "version": "7.47.195",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.195/mods.zip",
+    "sha256": "6eec34d5694b2670d249e4dae85b035d87b8eac17db4c0c8254bfa8296d751e0"
   },
   "launcher-apk": {
     "version": "2.0.3",
@@ -35,5 +35,5 @@
   "server_address": "jensen-checkboxes.tun.ply.gg",
   "site_url": "",
   "discord_url": "https://discord.gg/5GcgEnH67K",
-  "news": "Naruto Realms 7.47.193: corrige o livro 3D que ficava invisivel ao apertar V. Mantem o menu NR, as transformacoes, os Susanoos e os HUDs da atualizacao anterior. Servidor: jensen-checkboxes.tun.ply.gg."
+  "news": "Naruto Realms 7.47.195: corrige quedas durante o carregamento e preserva a aceitacao do pacote ao reconectar. Inclui Essentials 1.8.26 e Custom 1.0.27. Pacote de recursos continua obrigatorio."
 }
