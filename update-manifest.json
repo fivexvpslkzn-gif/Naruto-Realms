@@ -8,9 +8,9 @@
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
   "pack": {
-    "version": "7.47.192",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.192/mods.zip",
-    "sha256": "f63342432398fff568b43958ea54c96e9fb4395edc7a6e7079371722759d3eef"
+    "version": "7.47.193",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.193/mods.zip",
+    "sha256": "a536ff83f0954ee50f15d2cff1a20a72c9acb2856372b1d1b1bd2fe56e41dc59"
   },
   "launcher-apk": {
     "version": "2.0.3",
@@ -35,5 +35,5 @@
   "server_address": "jensen-checkboxes.tun.ply.gg",
   "site_url": "",
   "discord_url": "https://discord.gg/5GcgEnH67K",
-  "news": "Naruto Realms 7.47.192: menu com a logo NR original da academia, fonte do Minecraft, navegacao compacta e carregamento com Naruto correndo. Selo com asas, livro 3D, Susanoos e HUDs atualizados. Servidor: jensen-checkboxes.tun.ply.gg."
+  "news": "Naruto Realms 7.47.193: corrige o livro 3D que ficava invisivel ao apertar V. Mantem o menu NR, as transformacoes, os Susanoos e os HUDs da atualizacao anterior. Servidor: jensen-checkboxes.tun.ply.gg."
 }
