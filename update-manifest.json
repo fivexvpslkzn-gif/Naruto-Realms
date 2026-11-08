@@ -8,9 +8,9 @@
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
   "pack": {
-    "version": "7.47.196",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.196/mods.zip",
-    "sha256": "28c2c86850fe7530a243b0b6561e8fa2aa3977a61c8551fc68cd01e54c55aa0f"
+    "version": "7.47.198",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.198/mods.zip",
+    "sha256": "67cff0e8dee89396d1ed685ed7b023efa0f62b9b31e6e68816c583aa5e7e8dce"
   },
   "launcher-apk": {
     "version": "2.0.3",
@@ -35,5 +35,5 @@
   "server_address": "jensen-checkboxes.tun.ply.gg",
   "site_url": "",
   "discord_url": "https://discord.gg/5GcgEnH67K",
-  "news": "Naruto Realms 7.47.196: o Custom 1.0.28 carrega os visuais de vilas na inicializacao. Ao entrar, confere o pacote obrigatorio e reutiliza as texturas ja aplicadas."
+  "news": "Livro 3D nas mãos ao pressionar V e jutsus dos 13 clãs em ordem de evolução."
 }
