@@ -8,9 +8,9 @@
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
   "pack": {
-    "version": "7.47.200",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.200/mods.zip",
-    "sha256": "a438c512625be84c6e5fcadc7d402c56432d3354d4c27550497583f6475de028"
+    "version": "7.47.201",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.201/mods.zip",
+    "sha256": "82d3a36e8fbea4d01358934cadaacd2d38eddf354e0084a7628edf5c253115e1"
   },
   "launcher-apk": {
     "version": "2.0.3",
@@ -35,5 +35,5 @@
   "server_address": "jensen-checkboxes.tun.ply.gg",
   "site_url": "",
   "discord_url": "https://discord.gg/5GcgEnH67K",
-  "news": "Correção da desconexão na entrada após aplicar o pacote. Essentials 1.8.27 dá mais tempo para o notebook preparar o mundo."
+  "news": "Correção do livro na tecla V e da movimentação durante a leitura. Ajustes do livro e dos modelos para o perfil mobile. Inclui o Custom."
 }
