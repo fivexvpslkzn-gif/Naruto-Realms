@@ -8,9 +8,9 @@
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
   "pack": {
-    "version": "7.47.199",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.199/mods.zip",
-    "sha256": "accfb77610818f371f83c693e3251a38f2305fd5659cfd009632af1d8e0da85f"
+    "version": "7.47.200",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.200/mods.zip",
+    "sha256": "a438c512625be84c6e5fcadc7d402c56432d3354d4c27550497583f6475de028"
   },
   "launcher-apk": {
     "version": "2.0.3",
