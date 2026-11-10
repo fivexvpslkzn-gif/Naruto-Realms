@@ -35,5 +35,12 @@
   "server_address": "jensen-checkboxes.tun.ply.gg",
   "site_url": "",
   "discord_url": "https://discord.gg/5GcgEnH67K",
-  "news": "Correção do livro na tecla V e da movimentação durante a leitura. Ajustes do livro e dos modelos para o perfil mobile. Inclui o Custom."
+  "news": "Correção do livro na tecla V e da movimentação durante a leitura. Ajustes do livro e dos modelos para o perfil mobile. Inclui o Custom.",
+  "launcher-apk-fcl": {
+    "version": "3.0.0",
+    "version_code": 30000,
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.0/NarutoRealms-3.0.0-arm64.apk",
+    "sha256": "d93456a39f238e3e9f216cee85ccbd57dbb6f8227383a9f247d5f67be81cc566",
+    "notes": "Naruto Realms para Android com atualizacao dos mods pelo GitHub e controles de toque configurados."
+  }
 }
