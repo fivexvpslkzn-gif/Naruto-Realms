@@ -14,8 +14,8 @@
   },
   "launcher-apk": {
     "version": "2.0.3",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/etest/NarutoRealmsMobile-v2.0.5-login-local-neoforge-fix.apk",
-    "sha256": "81ac07a24cf47e55e7ca18c17a0940055f4f4b91b3d4c96cfae8ad2973525d4a",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.0/NarutoRealms-3.0.0-arm64.apk",
+    "sha256": "25ca7dfcd49399f13d9fb37564d65822e95bae48a39d0f922599c413a4d6861a",
     "required": true,
     "notes": "Launcher mobile completo com Minecraft Java, NeoForge e pack automático."
   },
