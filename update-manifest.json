@@ -37,10 +37,10 @@
   "discord_url": "https://discord.gg/5GcgEnH67K",
   "news": "Correção do livro na tecla V e da movimentação durante a leitura. Ajustes do livro e dos modelos para o perfil mobile. Inclui o Custom.",
   "launcher-apk-fcl": {
-    "version": "3.0.1",
-    "version_code": 30001,
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.1/NarutoRealms-3.0.1-arm64.apk",
-    "sha256": "e773ae640b69d0b8c90edc1eebd862fe8a190f1b4a441b24c69642676dde19e2",
-    "notes": "Tela inicial Naruto Realms, progresso de instalação, cancelamento e retomada dos downloads. Instale por cima da versão anterior."
+    "version": "3.0.2",
+    "version_code": 30002,
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.2/NarutoRealms-3.0.2-arm64.apk",
+    "sha256": "930ae576ee4bb6243355811cf344975219983681c67a47b7f420e738a6b49ddc",
+    "notes": "Compatibilidade do teclado dentro do jogo e ícone NR corrigido. Instale por cima da versão anterior para preservar os dados."
   }
 }
