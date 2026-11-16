@@ -37,10 +37,10 @@
   "discord_url": "https://discord.gg/5GcgEnH67K",
   "news": "Correção do livro na tecla V e da movimentação durante a leitura. Ajustes do livro e dos modelos para o perfil mobile. Inclui o Custom.",
   "launcher-apk-fcl": {
-    "version": "3.0.2",
-    "version_code": 30002,
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.2/NarutoRealms-3.0.2-arm64.apk",
-    "sha256": "930ae576ee4bb6243355811cf344975219983681c67a47b7f420e738a6b49ddc",
-    "notes": "Compatibilidade do teclado dentro do jogo e ícone NR corrigido. Instale por cima da versão anterior para preservar os dados."
+    "version": "3.0.3",
+    "version_code": 30003,
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.3/NarutoRealms-3.0.3-arm64.apk",
+    "sha256": "7e17c2ae948b23edccb148c55c4b3715f4944de0e398ecbffba6da3e99f4dcc2",
+    "notes": "Corrige a disputa de foco e o fechamento prematuro do teclado no jogo. Instale por cima da versão anterior para preservar os dados."
   }
 }
