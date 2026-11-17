@@ -8,9 +8,9 @@
     "notes": "Atualização obrigatória do launcher Naruto Realms."
   },
   "pack": {
-    "version": "7.47.201",
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.201/mods.zip",
-    "sha256": "82d3a36e8fbea4d01358934cadaacd2d38eddf354e0084a7628edf5c253115e1"
+    "version": "7.47.202",
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/client-7.47.202/mods.zip",
+    "sha256": "97b4d6588173f9d4c559183b940c25b8846bc66798645a36ebaba8a18d6c6f07"
   },
   "launcher-apk": {
     "version": "2.0.3",
@@ -35,7 +35,7 @@
   "server_address": "jensen-checkboxes.tun.ply.gg",
   "site_url": "",
   "discord_url": "https://discord.gg/5GcgEnH67K",
-  "news": "Correção do livro na tecla V e da movimentação durante a leitura. Ajustes do livro e dos modelos para o perfil mobile. Inclui o Custom.",
+  "news": "Livro V com enquadramento corrigido: o tórax não encobre as páginas. Mantém as mãos, mangas e roupa do personagem. Inclui o Custom.",
   "launcher-apk-fcl": {
     "version": "3.0.3",
     "version_code": 30003,
