@@ -37,10 +37,10 @@
   "discord_url": "https://discord.gg/5GcgEnH67K",
   "news": "Livro V com enquadramento corrigido: o tórax não encobre as páginas. Mantém as mãos, mangas e roupa do personagem. Inclui o Custom.",
   "launcher-apk-fcl": {
-    "version": "3.0.5",
-    "version_code": 30005,
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.5/NarutoRealms-3.0.5-arm64.apk",
-    "sha256": "8bf4a5530a1af7527a288c7d4caf4034b4b6b7c010e3eb968ab258c5058dac3f",
-    "notes": "Ajusta o limite de memória do Java conforme a RAM total e disponível do aparelho e reduz tarefas simultâneas em celulares com pouca RAM."
+    "version": "3.0.6",
+    "version_code": 30006,
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.6/NarutoRealms-3.0.6-arm64.apk",
+    "sha256": "36e4b4a913c7b2bd8cca5e415354de159e6c5a542eb1933cb5960672f29e942f",
+    "notes": "4 GB como alvo padrão. Em Ajustes > Memória do jogo, escolha o valor e confira o limite aplicável à RAM disponível."
   }
 }
