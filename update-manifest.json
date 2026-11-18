@@ -37,10 +37,10 @@
   "discord_url": "https://discord.gg/5GcgEnH67K",
   "news": "Livro V com enquadramento corrigido: o tórax não encobre as páginas. Mantém as mãos, mangas e roupa do personagem. Inclui o Custom.",
   "launcher-apk-fcl": {
-    "version": "3.0.4",
-    "version_code": 30004,
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.4/NarutoRealms-3.0.4-arm64.apk",
-    "sha256": "b418b306c7f08b0114f349c291d60945d5c1a63213e40cbf614f26c42992b9a2",
-    "notes": "Amplia o diagnóstico com o motivo de fechamento registrado pelo Android. Ainda não confirma a correção do crash. Instale por cima e, após uma falha, use Ajustes > Compartilhar diagnóstico > Jogo fechou / teclado."
+    "version": "3.0.5",
+    "version_code": 30005,
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.5/NarutoRealms-3.0.5-arm64.apk",
+    "sha256": "8bf4a5530a1af7527a288c7d4caf4034b4b6b7c010e3eb968ab258c5058dac3f",
+    "notes": "Ajusta o limite de memória do Java conforme a RAM total e disponível do aparelho e reduz tarefas simultâneas em celulares com pouca RAM."
   }
 }
