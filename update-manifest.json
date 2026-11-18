@@ -37,10 +37,10 @@
   "discord_url": "https://discord.gg/5GcgEnH67K",
   "news": "Livro V com enquadramento corrigido: o tórax não encobre as páginas. Mantém as mãos, mangas e roupa do personagem. Inclui o Custom.",
   "launcher-apk-fcl": {
-    "version": "3.0.6",
-    "version_code": 30006,
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.6/NarutoRealms-3.0.6-arm64.apk",
-    "sha256": "36e4b4a913c7b2bd8cca5e415354de159e6c5a542eb1933cb5960672f29e942f",
-    "notes": "4 GB como alvo padrão. Em Ajustes > Memória do jogo, escolha o valor e confira o limite aplicável à RAM disponível."
+    "version": "3.0.7",
+    "version_code": 30007,
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.7/NarutoRealms-3.0.7-arm64.apk",
+    "sha256": "d05e52880ad5cf803cc355a914c6b9faa4523238fbedaeb0f66a07d4facef70e",
+    "notes": "Corrige o bloqueio de abertura causado pela leitura instantânea de RAM. Quando há pouca memória, o jogo tenta abrir com limite reduzido e até duas tarefas de CPU em paralelo."
   }
 }
