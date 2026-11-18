@@ -37,10 +37,10 @@
   "discord_url": "https://discord.gg/5GcgEnH67K",
   "news": "Livro V com enquadramento corrigido: o tórax não encobre as páginas. Mantém as mãos, mangas e roupa do personagem. Inclui o Custom.",
   "launcher-apk-fcl": {
-    "version": "3.0.7",
-    "version_code": 30007,
-    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.7/NarutoRealms-3.0.7-arm64.apk",
-    "sha256": "d05e52880ad5cf803cc355a914c6b9faa4523238fbedaeb0f66a07d4facef70e",
-    "notes": "Corrige o bloqueio de abertura causado pela leitura instantânea de RAM. Quando há pouca memória, o jogo tenta abrir com limite reduzido e até duas tarefas de CPU em paralelo."
+    "version": "3.0.8",
+    "version_code": 30008,
+    "url": "https://github.com/fivexvpslkzn-gif/Naruto-Realms/releases/download/android-3.0.8/NarutoRealms-3.0.8-arm64.apk",
+    "sha256": "16acc48fb10a3a6c9b74225e951fa70363f8f4146e1ae1586fe06e723f98e581",
+    "notes": "Novo visual com o emblema NR da Academia, incluindo a tela inicial, a preparação do jogo, os ajustes e as atualizações do aplicativo."
   }
 }
